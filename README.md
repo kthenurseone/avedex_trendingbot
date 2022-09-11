@@ -24,7 +24,8 @@ If you are interested message me on Telegram [@kthenurseone](https://t.me/kthenu
 ## Features
 - Mass wallet generator included.
 - Auto captcha solver included.
-- 
+- Rotating proxy supported.
+- Windows/Mac/Ubuntu supported.
 
 
 
@@ -35,12 +36,12 @@ If you are interested message me on Telegram [@kthenurseone](https://t.me/kthenu
 4) Run the bot !
 
 Yes you read it correct ! My bot is so easy to use. There is nothing complicated.
-Windows/Mac/Ubuntu supported. 
+
 
 
 ## Images
-![Avedex](https://github.com/kthenurseone/telegram-message-bot/blob/main/1.png?raw=true)
-![Avedex](https://github.com/kthenurseone/telegram-message-bot/blob/main/2.png?raw=true)
+![Avedex](https://github.com/kthenurseone/avedex_trendingbot/blob/main/Screenshot%20from%202022-09-11%2018-33-21.png?raw=true)
+![Avedex](https://github.com/kthenurseone/avedex_trendingbot/blob/main/Screenshot%20from%202022-09-11%2018-34-07.png?raw=true)
 
 
 
