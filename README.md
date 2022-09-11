@@ -17,7 +17,7 @@
 </p>
 
 ## About
-The **Avadex Trending bot** helps you to make trending on [Avedex](https://avedex.cc/)
+The **Avedex Trending bot** helps you to make trending on [Avedex](https://avedex.cc/)
 
 If you are interested message me on Telegram [@kthenurseone](https://t.me/kthenurseone). 
 
